@@ -9,7 +9,7 @@ Produces text that avoids statistically detectable AI writing patterns. Every pi
 
 ## Before Writing Anything
 
-Load the banned words and phrases list from [references/banned-words.md](references/banned-words.md). Never use any word or phrase on that list. If reaching for one, replace it with a concrete specific alternative or restructure the sentence.
+Load the banned words and phrases list from [blacklisted-words.md](blacklisted-words.md). Never use any word or phrase on that list. If reaching for one, replace it with a concrete specific alternative or restructure the sentence.
 
 ## Structural Rules
 
