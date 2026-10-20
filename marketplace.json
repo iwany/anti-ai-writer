@@ -1,0 +1,16 @@
+{
+  "name": "mchardyan",
+  "owner": {
+    "name": "mchardyan"
+  },
+  "plugins": [
+    {
+      "name": "mchardyan",
+      "source": {
+        "source": "github",
+        "repo": "mchardyan/anti-ai-writer"
+      },
+      "description": "Paraphrasing Skill for Claude to Reduce AI Detector Result"
+    }
+  ]
+}
