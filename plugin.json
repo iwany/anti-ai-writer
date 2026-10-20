@@ -1,0 +1,11 @@
+{
+    "name": "mchardyan",
+    "version": "0.1.0",
+    "description": "Paraphrasing Skill for Claude to Reduce AI Detector Result",
+    "author": {
+    "name": "mchardyan"
+  },
+  "repository": "https://github.com/mchardyan/anti-ai-writer",
+  "license": "MIT",
+  "keywords": ["writing", "storytelling", "indonesian", "hooks", "anti-ai-slop"]
+}
